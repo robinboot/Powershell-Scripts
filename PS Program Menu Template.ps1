@@ -42,11 +42,11 @@ do
 	    	Write-Host "2: Your IP Detail:" -ForegroundColor Red -backgroundColor yellow
             ipconfig
             
-		}
+	}
         '3'
         {
-		    Write-Host "3: Number three selected..." -ForegroundColor Red -backgroundColor yellow
-		}
+		Write-Host "3: Number three selected..." -ForegroundColor Red -backgroundColor yellow
+	}
         'q' {return}
      }
      pause
