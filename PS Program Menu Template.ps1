@@ -2,7 +2,7 @@
 #       Author: RobinBoot(Sercan H.G.)
 #       Reviewer: https://github.com/robinboot/Powershell-Scripts/
 #       Date: 13/05/2022
-#       Description: Creation of Powershel Menu
+#       Description: Creation of Powershel Menu (PS Program Menu Template.ps1)
 #############################################################################
 ############################### CODE AREA ###################################
 
